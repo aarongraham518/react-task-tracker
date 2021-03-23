@@ -9,7 +9,7 @@ const App = () => {
         {
             id: 1,
             text: 'Doctors Appointment',
-            day: 'Feb 1',
+            day: 'Feb 7',
             reminder: true,
         },
         {
