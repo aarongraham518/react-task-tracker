@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+# Install locally with a basic http server
+# 'npm i -g serve'
+# 'serve -s build -p 8000'
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
