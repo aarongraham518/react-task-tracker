@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "Feb 3",
-      "reminder": false
-    },
-    {
       "text": "Take Test",
       "day": "Tuesday",
       "reminder": false,
@@ -17,6 +11,18 @@
       "day": "Friday",
       "reminder": false,
       "id": 5
+    },
+    {
+      "text": "testing survey entry",
+      "day": "Friday",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "fdasfda",
+      "day": "dfsafdas",
+      "reminder": false,
+      "id": 7
     }
   ]
 }

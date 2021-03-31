@@ -15,7 +15,7 @@ export const AddTask = ({onAdd}) => {
 
         onAdd({text, day, reminder});
 
-        setText('');
+        // setText('');
         setDay('');
         setReminder(false);
     }

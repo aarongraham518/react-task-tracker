@@ -37,7 +37,7 @@ const App = () => {
   }
 
 
-//Add Task
+//Add Task (data back from addTask component)
 const addTask = async (task) => {
   const res = await fetch('http://localhost:5000/tasks', {
     method: 'POST',
